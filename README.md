@@ -12,7 +12,9 @@ http://commandlinepoweruser.com
 - Oh my zsh - command line on steroids
 http://ohmyz.sh
 
-- 
+- Lavagna
+Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. http://lavagna.io
+
 
 ## Testing
 

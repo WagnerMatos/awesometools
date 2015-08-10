@@ -13,7 +13,7 @@ http://commandlinepoweruser.com
 http://ohmyz.sh
 
 - Lavagna
-Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. http://lavagna.io
+is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. http://lavagna.io
 
 
 ## Testing

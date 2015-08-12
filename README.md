@@ -41,3 +41,9 @@ https://support.getcloak.com/faq/introduction-cloak-vpns/#what-is-cloak
 - Firesheep - A Firefox extension that demonstrates HTTP session hijacking attackes
 https://codebutler.github.io/firesheep/
 
+## Server
+
+Nginx and Apache together 
+- http://kbeezie.com/apache-with-nginx/
+- http://www.sobstel.org/blog/pow-nginx-apache-ruby-php-all-through-port-80/
+

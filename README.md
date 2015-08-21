@@ -53,3 +53,6 @@ Nginx and Apache together
 
 ## Continuous Integration
 - https://futurestud.io/blog/strider-getting-started-platform-overview/
+
+## Server Performance/Load balancing
+- http://www.haproxy.org/#desc

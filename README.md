@@ -49,3 +49,6 @@ Nginx and Apache together
 
 ## Data Visualization
 - https://tonicdev.com
+
+## Continuous Integration
+- https://futurestud.io/blog/strider-getting-started-platform-overview/
